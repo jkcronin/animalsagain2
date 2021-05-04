@@ -13,6 +13,8 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## Animals! Again!
-What happens if I just type here?
+{% include feature/item-figure.html objectid="sleepyfox" width="75" %}
+
+
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include feature/abouttheabout.md %} 
