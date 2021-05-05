@@ -16,17 +16,14 @@ credits: true
 ![Sleepy Fox](https://github.com/jkcronin/animalsagain2/blob/1daf3b0ef39517088607e28ccbed88366bf6df35/objects/sleepyfox.jpg?raw=true)
 ![sleepy fox](sleepyfox.jpg)
 
-<p>I am going to try and figure out how to just write plain text. Is it like this?</p>
-<br>
-<br>
-<p>How do I put someting in *italics*?</p>
-<br>
-<p>~~What The Heck Am I Doing Wrong?~~</p>
-<br>
+I am going to try and figure out how to just write plain text. Is it like this?
+How do I put someting in *italics*?
+~~What The Heck Am I Doing Wrong?~~
+
 # Cool Animals You Might See Here
 1. Fox
 2. Cat
-3. Fish (WHY ON EARTH IS THIS ONE SHOWING UP BIGGER THAN THE OTHERS???)<br>
+3. Fish (WHY ON EARTH IS THIS ONE SHOWING UP BIGGER THAN THE OTHERS???)
 ---
-### Resources<br>
+### Resources
 [Animals in Art](https://www.tate.org.uk/art/teaching-resource/animals-art)
