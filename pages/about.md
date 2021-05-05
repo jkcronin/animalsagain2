@@ -16,7 +16,9 @@ credits: true
 ![Sleepy Fox](https://github.com/jkcronin/animalsagain2/blob/1daf3b0ef39517088607e28ccbed88366bf6df35/objects/sleepyfox.jpg)
 
 <p>I am going to try and figure out how to just write plain text. Is it like this?</p>
->Testing out the block quote thingy thing.
+> Testing out the block quote thingy thing.
+How do I put someting in *italics*?
+~~What The Heck Am I Doing Wroing?~~
 # Cool Animals You Might See Here
 1. Fox
 2. Cat
