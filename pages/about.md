@@ -16,13 +16,15 @@ credits: true
 ![Sleepy Fox](https://github.com/jkcronin/animalsagain2/blob/1daf3b0ef39517088607e28ccbed88366bf6df35/objects/sleepyfox.jpg)
 
 <p>I am going to try and figure out how to just write plain text. Is it like this?</p>
-> Testing out the block quote thingy thing.
-How do I put someting in *italics*?
-~~What The Heck Am I Doing Wroing?~~
+<br>
+> Testing out the block quote thingy thing. Ok, this looks weird
+<p>How do I put someting in *italics*?</p>
+<p>~~What The Heck Am I Doing Wrong?~~</p>
+<br>
 # Cool Animals You Might See Here
 1. Fox
 2. Cat
-3. Fish
+3. Fish (WHY IS THIS ONE SHOWING UP BIGGER THAN THE OTHERS???)
 ---
 ### Resources
 [Animals in Art](https://www.tate.org.uk/art/teaching-resource/animals-art)
