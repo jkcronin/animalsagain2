@@ -14,6 +14,7 @@ credits: true
 
 ## Animals! Again!
 ![Sleepy Fox](https://github.com/jkcronin/animalsagain2/blob/1daf3b0ef39517088607e28ccbed88366bf6df35/objects/sleepyfox.jpg)
+
 <p>I am going to try and figure out how to just write plain text. Is it like this?</p>
 # Cool Animals You Might See Here
 1. Fox
