@@ -18,3 +18,5 @@ credits: true
 2. Cat
 3. Fish
 
+###Resources
+[Animals in Art](https://www.tate.org.uk/art/teaching-resource/animals-art)
