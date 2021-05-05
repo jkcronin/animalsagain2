@@ -13,7 +13,8 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## Animals! Again!
-![sleepy fox](sleepyfox.jpg)
+![image](sleepyfox.jpg)
+
 1. Fox
 2. Cat
 3. Fish
