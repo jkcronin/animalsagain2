@@ -13,7 +13,8 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## Animals! Again!
-![Alt Text](https://github.com/jkcronin/animalsagain2/blob/1daf3b0ef39517088607e28ccbed88366bf6df35/objects/sleepyfox.jpg?raw=true)
+![Sleepy Fox](https://github.com/jkcronin/animalsagain2/blob/1daf3b0ef39517088607e28ccbed88366bf6df35/objects/sleepyfox.jpg?raw=true)
+![sleepy fox](sleepyfox.jpg)
 
 <p>I am going to try and figure out how to just write plain text. Is it like this?</p>
 <br>
