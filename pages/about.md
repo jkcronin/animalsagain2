@@ -17,14 +17,15 @@ credits: true
 
 <p>I am going to try and figure out how to just write plain text. Is it like this?</p>
 <br>
-> Testing out the block quote thingy thing. Ok, this looks weird
+<br>
 <p>How do I put someting in *italics*?</p>
+<br>
 <p>~~What The Heck Am I Doing Wrong?~~</p>
 <br>
 # Cool Animals You Might See Here
 1. Fox
 2. Cat
-3. Fish (WHY IS THIS ONE SHOWING UP BIGGER THAN THE OTHERS???)
+3. Fish (WHY IS THIS ONE SHOWING UP BIGGER THAN THE OTHERS???)<br>
 ---
-### Resources
+### Resources<br>
 [Animals in Art](https://www.tate.org.uk/art/teaching-resource/animals-art)
