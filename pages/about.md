@@ -14,9 +14,9 @@ credits: true
 
 ## Animals! Again!
 ![Sleepy Fox](https://github.com/jkcronin/animalsagain2/blob/1daf3b0ef39517088607e28ccbed88366bf6df35/objects/sleepyfox.jpg?raw=true)
-![sleepy fox](sleepyfox.jpg)
 
 I am going to try and figure out how to just write plain text. Is it like this?
+And what happens if I just type here? 
 How do I put someting in *italics*?
 ~~What The Heck Am I Doing Wrong?~~
 
