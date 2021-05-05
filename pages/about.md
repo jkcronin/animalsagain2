@@ -25,7 +25,7 @@ credits: true
 # Cool Animals You Might See Here
 1. Fox
 2. Cat
-3. Fish (WHY IS THIS ONE SHOWING UP BIGGER THAN THE OTHERS???)<br>
+3. Fish (WHY ON EARTH IS THIS ONE SHOWING UP BIGGER THAN THE OTHERS???)<br>
 ---
 ### Resources<br>
 [Animals in Art](https://www.tate.org.uk/art/teaching-resource/animals-art)
