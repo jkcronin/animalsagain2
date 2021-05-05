@@ -13,10 +13,10 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## Animals! Again!
-{% include feature/item-figure.html objectid="sleepyfox" width="75" %}
+![sleepy fox](sleepyfox.jpg)
 1. Fox
 2. Cat
 3. Fish
 ---
-###Resources
+### Resources
 [Animals in Art](https://www.tate.org.uk/art/teaching-resource/animals-art)
